@@ -22,7 +22,7 @@ const Home = () => (
     <style jsx>{`
       .container {
         min-height: 100vh;
-        background: #5bd75f;
+        background: #50bf54;
         color: #ffffff;
       }
 
